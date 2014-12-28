@@ -1,8 +1,8 @@
 # h5ai-themes
 
 These icon themes were previously shipped with [h5ai][h5ai]. Put these theme
-folders into folder `_h5ai/client/themes` of your h5ai installation, so that
-the file structure will be `_h5ai/client/themes/<theme-name>/icons/<type>.<ext>`.
+folders into folder `_h5ai/client/images/themes` of your h5ai installation, so that
+the file structure will be `_h5ai/client/images/themes/<theme-name>/<type>.<ext>`.
 
 To select a theme use the option `view > theme` in file `_h5ai/conf/options.json`.
 
