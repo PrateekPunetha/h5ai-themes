@@ -6,8 +6,6 @@ the file structure will be `_h5ai/client/images/themes/<theme-name>/<type>.<ext>
 
 To select a theme use the option `view > theme` in file `_h5ai/conf/options.json`.
 
-Currently there are two themes included:
-
 * `evolvere` based on [Evolvere&nbsp;Icon&nbsp;Theme][evolvere]&nbsp;(CC BY-NC-ND 3.0)
 * `faenza` based on [Faenza&nbsp;Icons][faenza]&nbsp;(GPL)
 
